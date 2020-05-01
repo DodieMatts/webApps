@@ -1,0 +1,19 @@
+body {
+    padding: 25% 0 0 35%; /*format location of body onPage*/
+}
+
+
+.form-textbox {
+    font-family: monospace, Arial, Helvetica, sans-serif;
+    font-size: 2em;
+    background-color: transparent;
+    color: green;
+    outline: none;
+    outline-style: none;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: solid black 5px;
+    padding: 3px 10px;
+    text-align: center;
+}
